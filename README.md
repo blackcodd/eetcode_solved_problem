@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
