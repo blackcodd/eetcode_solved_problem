@@ -22,29 +22,24 @@ public:
         vector<vector<int>> prev = mat;
         int m = mat.size();
         int n = mat[0].size();
-        int shift = k% n;
+        int shift = k % n;
         if (shift == 0)
             return true;
-        while (shift) {
+    
 
             for (int i = 0; i < m; i++) {
-
+                 for(int j=0;j<n;j++){
                 if (i % 2 == 0) {
-                    left_shift(mat[i]);
+                   mat[i][j]=mat[i][(j+shift)%n];
                 } else {
-                    right_shift(mat[i]);
+                   mat[i][j]=mat[i][(j-shift+n)%n];
                 }
-            }
-            
-            shift--;
 
+                 if(mat[i][j]!=prev[i][j]) return false;
+              }
+             
         }
-for (int i = 0; i < m; i++) {
-        for (int j = 0; j < n; j++) {
-            if (mat[i][j] != prev[i][j])
-                return false;
-        }
-    }
+
     return true;
         
     }
