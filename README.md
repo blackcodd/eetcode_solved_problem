@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +95,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
