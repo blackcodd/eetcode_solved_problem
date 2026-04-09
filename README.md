@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 <!---LeetCode Topics End-->
