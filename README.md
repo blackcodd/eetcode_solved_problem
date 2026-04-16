@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -117,4 +119,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3488-closest-equal-element-queries](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3488-closest-equal-element-queries/) | Medium |
 <!---LeetCode Topics End-->
