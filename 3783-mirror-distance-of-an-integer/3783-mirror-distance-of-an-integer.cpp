@@ -1,19 +1,12 @@
 class Solution {
 private:
 int Rev(int n){
-    int x=n;
-    int cnt=0;
-    while(x){
-         x/=10;
-         ++cnt;
-    }
-    int y=0;
+    int r=0;
     while(n){
-        y+=(n%10)*pow(10,cnt-1);
-        cnt--;
+        r=r*10+(n%10);
         n/=10;
     }
-    return y;
+    return r;
 }
 
 public:
