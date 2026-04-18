@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
