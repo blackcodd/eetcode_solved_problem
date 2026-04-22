@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/blackcodd/leetcode_solved_problem/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/blackcodd/leetcode_solved_problem/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -141,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/blackcodd/leetcode_solved_problem/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
