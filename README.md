@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -139,10 +141,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -152,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
