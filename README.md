@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3225-maximum-score-from-grid-operations](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Greedy
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [3225-maximum-score-from-grid-operations](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
