@@ -10,8 +10,8 @@ public:
         m1[A[i]]++;
         m2[B[i]]++;
         int curr=0;
-        if(m2.count(A[i])) curr++;
-        if(m1.count(B[i])) curr++;
+        if(m2[A[i]]==1) curr++;
+        if(m1[B[i]]==1) curr++;
         if(A[i]==B[i]) curr--;
 
         prev+=curr;
