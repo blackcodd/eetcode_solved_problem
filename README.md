@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1871-jump-game-vii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1871-jump-game-vii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1871-jump-game-vii/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/blackcodd/leetcode_solved_problem/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1871-jump-game-vii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1871-jump-game-vii/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -211,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->
