@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1622-fancy-sequence/) | Hard |
+| [3161-block-placement-queries](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3161-block-placement-queries/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3161-block-placement-queries](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3161-block-placement-queries](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3161-block-placement-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -220,4 +223,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1871-jump-game-vii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
