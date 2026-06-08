@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/blackcodd/leetcode_solved_problem/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/blackcodd/leetcode_solved_problem/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/blackcodd/leetcode_solved_problem/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## String
